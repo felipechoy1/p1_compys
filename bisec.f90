@@ -1,4 +1,4 @@
-!    2021-03-26
+!    2021-05-17
 !    bisec.f90
 !    Felipe Ixcamparic (felipechoy1@gmail.com)
 
@@ -6,7 +6,7 @@
 !    para una función arbitraria en un intervalo arbitrario
 
 !    Codificación del texto: UTF8
-!    Compiladores probados: GNU Fortran (SUSE Linux) 7.5.0
+!    Compiladores probados: GNU Fortran (Ubuntu 20.04 WSL) 9.3.0
 !    Instrucciones de compilación: no requiere nada mas
 !    gfortran -Wall -pedantic -std=f95 -c -o bisec.o bisec.f90
 !    gfortran -o bisec.x bisec.o 
